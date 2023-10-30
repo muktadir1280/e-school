@@ -28,3 +28,12 @@
 #s2{
     color: #21B573;
 }
+.btn{
+    width: 137px;
+    height: 35px;
+    top: 1461px;
+    left: 158px;
+    border-radius: 33px;
+    padding: 8px, 28px, 8px, 28px;
+    gap: 10px;
+}
