@@ -28,7 +28,7 @@
 #s2{
     color: #21B573;
 }
-.btn{
+.btn2{
     width: 137px;
     height: 35px;
     top: 1461px;
@@ -36,4 +36,22 @@
     border-radius: 33px;
     padding: 8px, 28px, 8px, 28px;
     gap: 10px;
+}
+.one{
+    height:270px ;
+    width: 270px;
+}
+.online{
+    height: 483px;
+    width: 370px;
+}
+.last{
+    height: 300px;
+    width: 100%;;
+    background-color: #282531;
+    padding-top: 50px;
+}
+.footer{
+    background-color:#282531 ;
+    margin-top: 0px;
 }
